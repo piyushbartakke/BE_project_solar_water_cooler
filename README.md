@@ -1,4 +1,4 @@
-# BE_solar_water_cooler
+# BE_Project_solar_water_cooler
 The project presents the design, fabrication, and testing of a 5-liter volume water cooler employing an Intermittent Vapor Absorption Refrigeration System (VARS) powered by solar energy. 
 
 The system utilizes an aqua-ammonia refrigerant-absorber pair to achieve the goal of producing chilled water at a target temperature of 5 degree Celsius within a 6-hour timeframe. 
